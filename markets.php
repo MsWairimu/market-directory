@@ -57,8 +57,8 @@ body {
     <?php
     // Assuming you have a database connection established
     $dbHost = 'localhost';
-    $dbUser = 'localhost';
-    $dbPass = 'Kabuu@2024';
+    $dbUser = '';
+    $dbPass = '';
     $dbName = 'acaciamarketdirectory';
 
     // Connect to the database
@@ -244,8 +244,8 @@ body {
   
     <?php
     $servername = "localhost";
-    $username = "localhost";
-    $password = "Kabuu@2024";
+    $username = "";
+    $password = "";
     $dbname = "acaciamarketadmin";
 
     // Creating connection
