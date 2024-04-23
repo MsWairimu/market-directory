@@ -6,8 +6,8 @@
 <?php
 // Database connection
 $servername = "localhost";
-$username = "localhost";
-$password = "Kabuu@2024";
+$username = "";
+$password = "";
 $dbname = "acaciamarketdirectory";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
