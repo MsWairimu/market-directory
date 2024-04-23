@@ -55,8 +55,8 @@
   <div class="">
   <?php
 $servername = "localhost";
-$username = "localhost"; 
-$password = "Kabuu@2024"; 
+$username = ""; 
+$password = ""; 
 $dbname = "acaciamarketadmin";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -199,8 +199,8 @@ tr:nth-child(odd) {
   <div class="">
   <?php
 $servername = "localhost";
-$username = "localhost"; 
-$password = "Kabuu@2024"; 
+$username = ""; 
+$password = ""; 
 $dbname = "acaciamarketadmin";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
