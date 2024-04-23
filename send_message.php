@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "localhost";
-$password = "Kabuu@2024";
+$username = "";
+$password = "";
 $dbname = "acaciamarketadmin";
 
 // Create connection
